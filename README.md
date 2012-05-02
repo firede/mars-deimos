@@ -1,4 +1,4 @@
-deimos
+Mars Deimos
 ======
 
-Deimos是一个Mars的脚手架(Scaffold)模块，用于快速构建[点点](http://www.diandian.com)的模板结构与内容。
+一个Mars的脚手架(Scaffold)模块，用于快速构建[点点](http://www.diandian.com)的模板结构与内容。
